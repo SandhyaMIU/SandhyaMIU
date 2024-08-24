@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1 align="center"> ## Hi there 👋 I'm Khin Myo Wai </h1>
+<h3 align="center">A passionate FullStack Developer from USA.</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif">
 
-<!--
-**SandhyaMIU/SandhyaMIU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently looking for  **a new role**
+
+- 💬 Ask me about **Java , Spring Boot, JavaScript, React.js and AWS**
+
+- 📫 How to reach me **khinmyo.sandhya@gmail.com**
+
+<h3 align="left">Connect with me:<a href="https://www.linkedin.com/in/khinmyowai-sandhya/" target="blank"> LinkedIn </a></h3> 
+
