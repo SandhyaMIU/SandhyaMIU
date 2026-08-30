@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently looking for  **a new role**
 
-- 💬 Ask me about **Java , Spring Boot, JavaScript, React.js and AWS**
+- 💬 Ask me about **Java , Spring Boot, JavaScript, React.js, Angular, Flutter and AWS**
 
 - 📫 How to reach me **khinmyo.sandhya@gmail.com**
 
